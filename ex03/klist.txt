@@ -1,0 +1,1 @@
+klist: krb5_cc_get_principal: No credentials cache file found
